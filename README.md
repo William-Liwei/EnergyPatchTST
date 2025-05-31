@@ -22,7 +22,6 @@ pip install -r requirements.txt
 
 Limited by the storage space of github repo, some data sets may need to be downloaded by yourself, but some small data sets may have been put in the repo for demonstration. If you have any questions, please contact me by email.
 
-
 ## Citation
 
 If you find this repo useful, please cite it as follows:
@@ -35,7 +34,6 @@ If you find this repo useful, please cite it as follows:
   year={2025}
 }
 ```
-
 
 ## Contact
 
@@ -55,3 +53,8 @@ We appreciate the following repo for their code and dataset:
 - https://github.com/William-Liwei/ScatterFusion
 - https://github.com/William-Liwei/TimeFlowDiffuser
 - https://github.com/William-Liwei/LWSpace
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=William-Liwei/EnergyPatchTST&type=Timeline)](https://www.star-history.com/#William-Liwei/EnergyPatchTST&Timeline)
