@@ -53,6 +53,3 @@ We appreciate the following repo for their code and dataset:
 - https://github.com/William-Liwei/ScatterFusion
 - https://github.com/William-Liwei/TimeFlowDiffuser
 - https://github.com/William-Liwei/LWSpace
-
-
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=Z2hwX1NyaUdqUHBBOVkybERQZUFXRzU5d1o0U3htSzhBUzJURFJaRg==#William-Liwei/EnergyPatchTST&Timeline" frameBorder="0"></iframe>
