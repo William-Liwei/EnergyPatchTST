@@ -45,6 +45,7 @@ This repo model is a simplified model and is allowed for commercial use, but ple
 
 We appreciate the following repo for their code and dataset:
 
+- https://github.com/yuqinie98/PatchTST
 - https://github.com/thuml/Time-Series-Library
 - https://github.com/thuml/Autoformer
 - https://github.com/Hank0626/WFTNet
