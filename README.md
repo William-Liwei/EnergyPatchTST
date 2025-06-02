@@ -2,7 +2,7 @@
 
 This is an official implementation of  [EnergyPatchTST: Multi-scale Time Series Transformers with Uncertainty Estimation for Energy Forecasting].
 
-![license](https://badgen.net/github/license/William-Liwei/EnergyPatchTST)  [![Issues](https://badgen.net/github/issues/William-Liwei/EnergyPatchTST)](https://github.com/William-Liwei/EnergyPatchTST/issues)  [![PRs](https://badgen.net/github/prs/William-Liwei/EnergyPatchTST)](https://github.com/William-Liwei/EnergyPatchTST/issues)  ![GitHub repo size](https://img.shields.io/github/repo-size/william-liwei/energypatchtst)  ![GitHub Repo stars](https://badgen.net/github/stars/William-Liwei/EnergyPatchTST)![GitHub forks](https://badgen.net/github/forks/William-Liwei/EnergyPatchTST)
+![license](https://badgen.net/github/license/William-Liwei/EnergyPatchTST)  [![Issues](https://badgen.net/github/issues/William-Liwei/EnergyPatchTST?color=red)](https://github.com/William-Liwei/EnergyPatchTST/issues)  [![PRs](https://badgen.net/github/prs/William-Liwei/EnergyPatchTST?color=yellow)](https://github.com/William-Liwei/EnergyPatchTST/pulls)  ![GitHub repo size](https://img.shields.io/github/repo-size/william-liwei/energypatchtst?color=green)  ![GitHub Repo stars](https://badgen.net/github/stars/William-Liwei/EnergyPatchTST?color=orange)![GitHub forks](https://badgen.net/github/forks/William-Liwei/EnergyPatchTST?color=pink)
 
 ## Authors
 
