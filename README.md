@@ -2,6 +2,8 @@
 
 This is an official implementation of  [EnergyPatchTST: Multi-scale Time Series Transformers with Uncertainty Estimation for Energy Forecasting].
 
+![license](https://img.shields.io/github/license/William-Liwei/EnergyPatchTST.svg?style=flat-square)  [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/William-Liwei/EnergyPatchTST/issues)  
+
 ## Authors
 
 - Wei Li, Shanghai University;
