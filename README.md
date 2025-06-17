@@ -70,11 +70,12 @@ We extend our gratitude to the following repositories for their valuable code an
 If you find this repo useful, please cite it as follows:
 
 ```
-@article{li2025energypatchtst,
-  title={EnergyPatchTST: Multi-scale Time Series Transformers with Uncertainty Estimation for Energy Forecasting},
-  author={Li, Wei and Wang, Zixin and Sun, Qizheng and Gao, Qixiang and Yang, Fenglei},
-  journal={International Conference on Intelligent Computing},
-  year={2025}
+@inproceedings{li2025energypatchtst,
+	title={EnergyPatchTST: Multi-scale Time Series Transformers with Uncertainty Estimation for Energy Forecasting},
+	author={Li, Wei and Wang, Zixin and Sun, Qizheng and Gao, Qixiang and Yang, Fenglei},
+	booktitle={International Conference on Intelligent Computing},
+	year={2025},
+	note={to be published}
 }
 ```
 
