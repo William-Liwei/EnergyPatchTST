@@ -71,17 +71,18 @@ If you find this repo useful, please cite it as follows:
 
 ```
 @inproceedings{li2025energypatchtst,
-	title={EnergyPatchTST: Multi-scale Time Series Transformers with Uncertainty Estimation for Energy Forecasting},
-	author={Li, Wei and Wang, Zixin and Sun, Qizheng and Gao, Qixiang and Yang, Fenglei},
-	booktitle={International Conference on Intelligent Computing},
-	year={2025},
-	note={to be published}
+  title={EnergyPatchTST: Multi-scale Time Series Transformers with Uncertainty Estimation for Energy Forecasting},
+  author={Li, Wei and Wang, Zixin and Sun, Qizheng and Gao, Qixiang and Yang, Fenglei},
+  booktitle={International Conference on Intelligent Computing},
+  year={2025},
+  note={to be published}
 }
 ```
 
 ## Star History
 
 <a href="https://www.star-history.com/#William-Liwei/EnergyPatchTST&Date">
+
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=William-Liwei/EnergyPatchTST&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=William-Liwei/EnergyPatchTST&type=Date" />
