@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## Data set preparation
 
-Due to the storage space limitations of GitHub, some data sets may need to be downloaded separately. However, some small data sets have been included in the repository for demonstration purposes. If you encounter any issues with the data sets, please contact us via email.
+Due to the storage space limitations of GitHub, some data sets may need to be downloaded separately. However, some small data sets have been included in the repository for demonstration purposes. If you encounter any issues with the data sets, please contact us via email [liwei008009@163.com](mailto:liwei008009@163.com).
 
 ## Model Overview
 
