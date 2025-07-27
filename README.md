@@ -89,14 +89,3 @@ If you find this repo useful, please cite it as follows:
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=William-Liwei/EnergyPatchTST&type=Date" />
  </picture>
 </a>
-
-```
-@inproceedings{li2025energypatchtst,
-  title={EnergyPatchTST: Multi-scale Time Series Transformers with Uncertainty Estimation for Energy Forecasting},
-  author={Li, Wei and Wang, Zixin and Sun, Qizheng and Gao, Qixiang and Yang, Fenglei},
-  booktitle={International Conference on Intelligent Computing},
-  pages={319--330},
-  year={2025},
-  organization={Springer}
-}
-```
