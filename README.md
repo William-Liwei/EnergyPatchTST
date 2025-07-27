@@ -70,24 +70,13 @@ We extend our gratitude to the following repositories for their valuable code an
 If you find this repo useful, please cite it as follows:
 
 ```
-@InProceedings{10.1007/978-981-96-9815-8_27,
-author="Li, Wei
-and Wang, Zixin
-and Sun, Qizheng
-and Gao, Qixiang
-and Yang, Fenglei",
-editor="Huang, De-Shuang
-and Pan, Yijie
-and Chen, Wei
-and Li, Bo",
-title="EnergyPatchTST: Multi-scale Time Series Transformers with Uncertainty Estimation for Energy Forecasting",
-booktitle="Advanced Intelligent Computing Technology and Applications",
-year="2025",
-publisher="Springer Nature Singapore",
-address="Singapore",
-pages="319--330",
-abstract="Accurate and reliable energy time series prediction is of great significance for power generation planning and allocation. At present, deep learning time series prediction has become the mainstream method. However, the multi-scale time dynamics and the irregularity of real data lead to the limitations of the existing methods. Therefore, we propose EnergyPatchTST, which is an extension of the Patch Time Series Transformer specially designed for energy forecasting. The main innovations of our method are as follows: (1) multi-scale feature extraction mechanism to capture patterns with different time resolutions; (2) probability prediction framework to estimate uncertainty through Monte Carlo elimination; (3) integration path of future known variables (such as temperature and wind conditions); And (4) Pre-training and Fine-tuning examples to enhance the performance of limited energy data sets. A series of experiments on common energy data sets show that EnergyPatchTST is superior to other commonly used methods, the prediction error is reduced by 7--12{\%}, and reliable uncertainty estimation is provided, which provides an important reference for time series prediction in the energy field.",
-isbn="978-981-96-9815-8"
+@inproceedings{li2025energypatchtst,
+  title={EnergyPatchTST: Multi-scale Time Series Transformers with Uncertainty Estimation for Energy Forecasting},
+  author={Li, Wei and Wang, Zixin and Sun, Qizheng and Gao, Qixiang and Yang, Fenglei},
+  booktitle={International Conference on Intelligent Computing},
+  pages={319--330},
+  year={2025},
+  organization={Springer}
 }
 ```
 
@@ -100,3 +89,14 @@ isbn="978-981-96-9815-8"
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=William-Liwei/EnergyPatchTST&type=Date" />
  </picture>
 </a>
+
+```
+@inproceedings{li2025energypatchtst,
+  title={EnergyPatchTST: Multi-scale Time Series Transformers with Uncertainty Estimation for Energy Forecasting},
+  author={Li, Wei and Wang, Zixin and Sun, Qizheng and Gao, Qixiang and Yang, Fenglei},
+  booktitle={International Conference on Intelligent Computing},
+  pages={319--330},
+  year={2025},
+  organization={Springer}
+}
+```
